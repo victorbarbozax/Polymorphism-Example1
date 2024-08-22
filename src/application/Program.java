@@ -25,7 +25,7 @@ public class Program {
 		int n = sc.nextInt();
 		
 		for (int i=1; i<=n; i++) {
-			System.out.println("Datos do produto #" + i + ":");
+			System.out.println("Dados do produto #" + i + ":");
 			System.out.print("Comum, usado, importado (c/u/i)? ");
 			char type = sc.next().charAt(0);
 			System.out.print("Nome: ");
