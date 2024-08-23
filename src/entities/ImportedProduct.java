@@ -29,5 +29,6 @@ public class ImportedProduct extends Product {
 				+ " (Customs fee: $ " 
 				+ String.format("%.2f", customsFee)
 				+ ")";
+		
 	}
 }
